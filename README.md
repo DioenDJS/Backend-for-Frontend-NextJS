@@ -12,7 +12,7 @@
 - [NextJS](https://nextjs.org/docs/getting-started/installation) <img align="center" alt="img_React" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="max-width:100%;" />
 
 ## Projeto :computer:
-![image](https://github.com/DioenDJS/Backend-for-Frontend-NextJS/assets/76778401/ec982d94-8c0a-4440-9a79-5a8a2b1345d4)
+![image](https://github.com/DioenDJS/Backend-for-Frontend-NextJS/assets/76778401/8c2dfdf8-d904-4cd3-8dbc-71c6e0a81bda)
 https://whimsical.com/3beh1L5HbHXH36KzQMBtzt
 
 Projeto . Desenvolver...
