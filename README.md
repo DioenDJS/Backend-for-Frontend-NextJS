@@ -35,7 +35,7 @@ como rodar a api reviews
 ![image](https://github.com/DioenDJS/Backend-for-Frontend-NextJS/assets/76778401/0f83061b-37a1-4bc1-9514-fdc38aa4ef85)
 
 # Testes Postman
-[![Run in Postman](https://run.pstmn.io/button.svg)](YOUR_COLLECTION_LINK)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/DioenDJS/Backend-for-Frontend-NextJS/main/Backend%20for%20Frontend.postman_collection.json)
 
 ![image](https://github.com/DioenDJS/Backend-for-Frontend-NextJS/assets/76778401/43151fa7-4cc6-4cde-a100-f55074e5a665)
 
