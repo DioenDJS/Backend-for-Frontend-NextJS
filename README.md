@@ -21,3 +21,19 @@ Projeto . Desenvolver...
 ## Como o projeto foi criado 
 
 > ``` yarn create next-app --typescript ```
+
+como rodar o projeto 
+>```yarn run dev```
+
+como rodar a api products
+>```yarn run api-products```
+
+como rodar a api reviews
+>```yarn run api-reviews```
+
+## Dependências do Projetos :card_index_dividers:
+
+
+> - Json Server
+>
+>``` yarn add json-server --dev ```
